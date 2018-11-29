@@ -1,0 +1,41 @@
+{
+	"name": "nvp-json",
+	"version": "0.1.0",
+	"description": "A simple bidirectional NVP/JSON parser for use with PayPal NVP APIs.",
+	"main": "index.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"start": "node index.js",
+		"test": "mocha --exit"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/carriejv/json-nvp.git"
+	},
+	"bugs": {
+		"url": "https://github.com/carriejv/json-nvp/issues"
+	},
+	"homepage": "https://github.com/carriejv/json-nvp",
+	"author": "Carrie Vrtis <cjvrtis@gmail.com> (https://www.carrievrtis.com)",
+	"contributors": [
+		"Carrie Vrtis <cjvrtis@gmail.com> (https://www.carrievrtis.com)"
+	],
+	"keywords": [
+		"paypal",
+		"payflow",
+		"payflow",
+		"pro",
+		"nvp",
+		"json",
+		"api",
+		"parser"
+	],
+	"license": "MIT",
+	"dependencies": {},
+	"devDependencies": {
+		"chai": "^4.2.0",
+		"mocha": "^5.2.0"
+	}
+}
