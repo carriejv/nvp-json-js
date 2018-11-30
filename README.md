@@ -1,6 +1,6 @@
 # nvp-json
 
-[![npm version](https://img.shields.io/npm/v/nvp-json.svg)](https://www.npmjs.com/package/nvp-json) [![Build Status](https://img.shields.io/travis/carriejv/nvp-json.svg)](https://travis-ci.org/carriejv/nvp-json) [![dependencies](https://img.shields.io/david/carriejv/nvp-json.svg)](https://david-dm.org/carriejv/nvp-json)  [![devDependencies](https://img.shields.io/david/dev/carriejv/nvp-json.svg)](https://david-dm.org/carriejv/nvp-json#info=devDependencies)
+[![npm version](https://img.shields.io/npm/v/nvp-json.svg)](https://www.npmjs.com/package/nvp-json) [![Build Status](https://img.shields.io/travis/carriejv/nvp-json-js.svg)](https://travis-ci.org/carriejv/nvp-json-js) [![dependencies](https://img.shields.io/david/carriejv/nvp-json-js.svg)](https://david-dm.org/carriejv/nvp-json-js)  [![devDependencies](https://img.shields.io/david/dev/carriejv/nvp-json-js.svg)](https://david-dm.org/carriejv/nvp-json-js#info=devDependencies)
 
 
 A bi-directional NVP-JSON parser, for use with [PayPal's NVP APIs](https://developer.paypal.com/reference/?mark=endpoints).
