@@ -12,12 +12,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/carriejv/json-nvp.git"
+		"url": "https://github.com/carriejv/nvp-json-js.git"
 	},
 	"bugs": {
-		"url": "https://github.com/carriejv/json-nvp/issues"
+		"url": "https://github.com/carriejv/nvp-json-js/issues"
 	},
-	"homepage": "https://github.com/carriejv/json-nvp",
+	"homepage": "https://github.com/carriejv/nvp-json-js",
 	"author": "Carrie Vrtis <cjvrtis@gmail.com> (https://www.carrievrtis.com)",
 	"contributors": [
 		"Carrie Vrtis <cjvrtis@gmail.com> (https://www.carrievrtis.com)"
