@@ -8,7 +8,7 @@
 	},
 	"scripts": {
 		"start": "node index.js",
-		"test": "mocha --exit"
+		"test": "nyc mocha --exit"
 	},
 	"repository": {
 		"type": "git",
@@ -36,6 +36,8 @@
 	"dependencies": {},
 	"devDependencies": {
 		"chai": "^4.2.0",
-		"mocha": "^5.2.0"
+		"istanbul": "^0.4.5",
+		"mocha": "^5.2.0",
+		"nyc": "^13.1.0"
 	}
 }
