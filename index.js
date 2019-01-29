@@ -1,6 +1,6 @@
 /*!
  * nvp-json
- * Copyright(c) 20018 Carrie Vrtis
+ * Copyright(c) 2018 Carrie Vrtis
  * MIT Licensed
  */
 
