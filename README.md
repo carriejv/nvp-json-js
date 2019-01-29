@@ -5,7 +5,8 @@
 
 A bi-directional NVP-JSON parser, for use with [PayPal's NVP APIs](https://developer.paypal.com/reference/?mark=endpoints).
 
-Tested with Node `4.9.1+`.
+Tested with Node `6.0+`.
+Should work with prior versions, but will not test correctly due to nyc dependencies.
 
 ## Installation
 
