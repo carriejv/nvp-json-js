@@ -1,6 +1,6 @@
 {
 	"name": "nvp-json",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "A bidirectional NVP/JSON parser for use with PayPal NVP APIs.",
 	"main": "index.js",
 	"directories": {
