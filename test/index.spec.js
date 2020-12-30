@@ -4,10 +4,8 @@
  * MIT Licensed
  */
 
-
-const chai = require('chai');
-const should = chai.should();
 const nvpjson = require('../index.js');
+require('chai').should();
 
 const testString = 'KEY=VALUE&AWFUL[4]==&&=&TERRIBLE[18]= &= HELLOWORLD[2]=&NORMAL=DATA';
 let testObj;

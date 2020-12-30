@@ -1,13 +1,13 @@
 # nvp-json
 
-[![npm version](https://img.shields.io/npm/v/nvp-json.svg)](https://www.npmjs.com/package/nvp-json) [![Build Status](https://img.shields.io/travis/carriejv/nvp-json-js.svg)](https://travis-ci.org/carriejv/nvp-json-js) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9065cebcf7384259bac3bce3d502d97e)](https://www.codacy.com/app/carriejv/nvp-json-js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=carriejv/nvp-json-js&amp;utm_campaign=Badge_Grade) [![Codacy Coverage](https://api.codacy.com/project/badge/Coverage/62203b9587e7431b90a034ac7bd94de3)](https://www.codacy.com/app/carriejv/nvp-json-js?utm_source=github.com&utm_medium=referral&utm_content=carriejv/nvp-json-js&utm_campaign=Badge_Coverage)
+[![npm version](https://img.shields.io/npm/v/nvp-json.svg)](https://www.npmjs.com/package/nvp-json) [![Build Status](https://img.shields.io/travis/carriejv/nvp-json-js.svg)](https://travis-ci.org/carriejv/nvp-json-js) [![npm downloads](https://img.shields.io/npm/dt/nvp-json.svg)](https://www.npmjs.com/package/nvp-json) [![Codacy Coverage](https://api.codacy.com/project/badge/Coverage/62203b9587e7431b90a034ac7bd94de3)](https://www.codacy.com/app/carriejv/nvp-json-js?utm_source=github.com&utm_medium=referral&utm_content=carriejv/nvp-json-js&utm_campaign=Badge_Coverage)
 
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/carriejv) [![GitKraken](https://img.shields.io/badge/<3-GitKraken-green.svg)](https://www.gitkraken.com/invite/om4Du5zG) [![dependencies](https://img.shields.io/david/carriejv/nvp-json-js.svg)](https://david-dm.org/carriejv/nvp-json-js) [![devDependencies](https://img.shields.io/david/dev/carriejv/nvp-json-js.svg)](https://david-dm.org/carriejv/nvp-json-js#info=devDependencies)
+[![dependencies](https://img.shields.io/david/carriejv/nvp-json-js.svg)](https://david-dm.org/carriejv/nvp-json-js) [![Build Status](https://github.com/carriejv/nvp-json-js/workflows/ci-build/badge.svg?branch=master)](https://github.com/carriejv/nvp-json-js/actions?query=workflow%3Aci-build) [![GitKraken](https://img.shields.io/badge/<3-GitKraken-green.svg)](https://www.gitkraken.com/invite/om4Du5zG)
 
 A bi-directional NVP-JSON parser, for use with [PayPal's NVP APIs](https://developer.paypal.com/reference/?mark=endpoints).
 
-Tested with Node `6.0+`.
+Tested with Node >= 6 LTS.
 
 ## Installation
 
